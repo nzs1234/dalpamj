@@ -33,7 +33,7 @@ body {
     color: white;
     background-color: #00b075; /* 버튼 배경색 */
     border: none;
-    border-radius: 10px; /* 둥근 모서리 */
+    border-radius: 10px;
     text-decoration: none; /* 링크 밑줄 제거 */
     cursor: pointer;
     transition: all 0.3s ease; /* 부드러운 전환 효과 */
