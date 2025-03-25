@@ -80,6 +80,7 @@ body {
 
 .ab-img {
     float: right;
+    border-radius: 10px;
 }
 
 .ab-big-r {
@@ -98,6 +99,7 @@ body {
 
 .ab-img-r {
     float: left;
+    border-radius: 10px;
 }
 
 /* 이미지 슬라이드 애니메이션 */
